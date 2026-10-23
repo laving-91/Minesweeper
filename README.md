@@ -217,4 +217,4 @@ Minesweeper is offered as a full free version with all features and updates incl
 Download Minesweeper today and start uncovering those hidden mines! Experience the classic puzzle game that has stood the test of time.
 
 ---
-**Last updated:** 2026-10-23 12:24:21 UTC
+**Last updated:** 2026-10-23 17:41:12 UTC
